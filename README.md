@@ -136,7 +136,7 @@ class MuhammadHussnain:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhussnain35&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff" alt="Top Languages" />
 
 <br/>
@@ -157,7 +157,7 @@ class MuhammadHussnain:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mhussnain35&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=mhussnain35&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Experience" alt="GitHub Trophies" width="98%" />
 
 </div>
 
