@@ -153,13 +153,13 @@ class MuhammadHussnain:
 
 <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
 
-## 🏆 &nbsp;GitHub Trophies
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mhussnain35&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Experience" alt="GitHub Trophies" width="98%" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mhussnain35&theme=onedark&column=4&row=2&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <br/>
 
