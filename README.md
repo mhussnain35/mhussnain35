@@ -1,230 +1,101 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&size=28&duration=4000&color=00B4D8&lines=Muhammad+Hussnain;Full-Stack+AI+Engineer;Autonomous+Agents+✦+RAG+Pipelines+✦+LLM+Systems)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Hussnain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer&descAlignY=55&descSize=18" width="100%" />
+![Profile views](https://komarev.com/ghpvc/?username=mhussnain35&color=blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mhussnain35.mhussnain35)
 
-<a href="https://buildwithhussnain.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Full-Stack+AI+Engineer;Autonomous+Agents+%7C+RAG+Pipelines;Production+LLM+Systems;I+build+AI+that+executes%2C+not+just+responds" alt="Typing SVG" />
-</a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mhussnain35&label=Profile%20Views&color=00d4ff&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/mhussnain35?label=Followers&style=flat-square&color=00d4ff" alt="followers" />
-<img src="https://img.shields.io/badge/Focus-Agentic%20AI-00d4ff?style=flat-square" alt="focus" />
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square" alt="open to work" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/hussnain-nazir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://buildwithhussnain.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:hussnainbhi.78@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/mhussnain35"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
-
-```python
-class MuhammadHussnain:
-    def __init__(self):
-        self.role     = "Full-Stack AI Engineer"
-        self.focus    = ["Autonomous Agents", "RAG Pipelines", "Production LLM Systems"]
-        self.stack    = ["Python", "TypeScript", "FastAPI", "Next.js", "LangChain"]
-        self.learning = ["Multi-Agent Orchestration", "Vector Search at Scale", "MLOps"]
+**I build AI agents that finish the task, not chatbots that guess.**  
+Specializing in autonomous agent architectures, retrieval-grounded systems, and production Python backends.  
+From fine-tuned BERT classifiers to multi-tool agents and citation-backed RAG support systems — I work at the intersection of applied ML and shipped software.
 
-    def philosophy(self) -> str:
-        return "Ship systems that act — grounded, observable, and production-ready."
-```
+---
 
-- 🤖 &nbsp;I design **autonomous AI agents** that plan, call tools, and complete real tasks end-to-end
-- 📚 &nbsp;I build **RAG systems** with citation-grounded answers and clean human-escalation paths
-- 🧠 &nbsp;I train and ship **ML models** — classification, prediction, and NLP with BERT & Scikit-learn
-- ⚡ &nbsp;I deliver **full-stack products** using FastAPI, Next.js, and TypeScript end to end
-- 🌱 &nbsp;Currently going deeper on **multi-agent orchestration** and **LLM evaluation**
-- 💬 &nbsp;Ask me about **LangChain, RAG architecture, agent tooling, or Python backends**
+<img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" /> 
 
-<br/>
+### Building AI that *retrieves, reasons, and acts.*
 
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+I design and deploy AI systems end to end — from data pipelines and fine-tuned models to autonomous agents running in production.
 
-## 🛠️ &nbsp;Tech Stack
+- 🤖 **Agentic AI Architecture** — Autonomous agents that plan, call tools, and handle end-to-end file-system and workflow tasks.
+- 📚 **RAG & Grounded Retrieval** — Support systems that cite their sources, refuse to hallucinate, and escalate to humans cleanly.
+- 🧠 **Machine Learning & NLP** — Fine-tuned BERT classifiers, Scikit-learn pipelines, and prediction models trained on real datasets.
+- 🚀 **Full-Stack Delivery** — FastAPI → vector DBs → Next.js/React → serverless. I own the entire stack.
 
-<details open>
-<summary><b>🤖 AI, Agents & Machine Learning</b></summary>
-<br/>
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-6E56CF?style=for-the-badge&logo=probot&logoColor=white)
-![Chainlit](https://img.shields.io/badge/Chainlit-F80061?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## 🛠️ Tech Stack & Tools
 
-</details>
+**AI & Agents:**
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=plastic&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-00BFA6?style=plastic)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=plastic&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=plastic&logo=OpenAI&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=plastic&logo=anthropic&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-F80061?style=plastic)
+![Vector DB](https://img.shields.io/badge/Vector_DBs-DC244C?style=plastic)
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
+**Machine Learning & Data:**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FFD21E?style=plastic&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9D00?style=plastic&logo=huggingface&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
 
-</details>
+**Backend & Databases:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
 
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
+**Infra & Tools:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+---
 
-</details>
+## 🌍 Let's Connect
 
-<details open>
-<summary><b>⚙️ Backend & Databases</b></summary>
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hussnain-nazir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://buildwithhussnain.me)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:hussnainbhi.78@gmail.com)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+---
 
-</details>
+## 📊 GitHub Stats
 
-<details open>
-<summary><b>☁️ Tools & Infrastructure</b></summary>
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.vercel.app/?user=mhussnain35&theme=tokyonight" width="48%" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
-</details>
+## 📈 Most Used Languages
 
-<br/>
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhussnain35&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true&exclude_repo=Assignment1,Assignment3,Assignment4,Assignment5,CPP-Learning)
 
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+---
 
-## 📊 &nbsp;GitHub Statistics
+## 🏆 GitHub Trophies
 
-<div align="center">
+[![trophy](https://github-trophies.vercel.app/?username=mhussnain35&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhussnain35&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff" alt="Top Languages" />
+---
 
-<br/>
+> _"Building AI systems that retrieve, reason, and act."_ 🤖✨
 
-<img src="https://streak-stats.demolab.com?user=mhussnain35&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhussnain35&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true" alt="Activity Graph" width="98%" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mhussnain35&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Experience" alt="GitHub Trophies" width="98%" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mhussnain35/deskwise">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhussnain35&repo=deskwise&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="deskwise" />
-</a>
-<a href="https://github.com/mhussnain35/AI_Employee">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhussnain35&repo=AI_Employee&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="AI_Employee" />
-</a>
-<a href="https://github.com/mhussnain35/Context-Aware-Chatbot-Using-LangChain-or-RAG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhussnain35&repo=Context-Aware-Chatbot-Using-LangChain-or-RAG&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="Context-Aware Chatbot" />
-</a>
-<a href="https://github.com/mhussnain35/News-Topic-Classifier-Using-BERT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhussnain35&repo=News-Topic-Classifier-Using-BERT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="News Topic Classifier" />
-</a>
-
-</div>
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[deskwise](https://github.com/mhussnain35/deskwise)** | Support agent that refuses to hallucinate — cited answers from your docs with human escalation | `TypeScript` `RAG` `LLM` |
-| **[AI_Employee](https://github.com/mhussnain35/AI_Employee)** | Autonomous agent acting as a virtual employee, handling end-to-end file-system tasks | `Python` `Agents` `LLM` |
-| **[Context-Aware Chatbot](https://github.com/mhussnain35/Context-Aware-Chatbot-Using-LangChain-or-RAG)** | Memory-aware conversational assistant built on LangChain + retrieval | `LangChain` `RAG` |
-| **[News Topic Classifier](https://github.com/mhussnain35/News-Topic-Classifier-Using-BERT)** | Fine-tuned BERT model for multi-class news topic classification | `BERT` `PyTorch` `NLP` |
-| **[Chainlit Chatbot](https://github.com/mhussnain35/Chainlit-Chatbot)** | Multi-tool chatbot with weather, news, and currency integrations | `Chainlit` `Python` |
-| **[End-to-End ML Pipeline](https://github.com/mhussnain35/End-to-End-ML-Pipeline-with-Scikit-learn-Pipeline-API)** | Reproducible training pipeline using the Scikit-learn Pipeline API | `scikit-learn` `Python` |
-
-<br/>
-
-<!-- ═══════════════════════════ CONTRIBUTIONS ═══════════════════════════ -->
-
-## 🐍 &nbsp;Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mhussnain35/mhussnain35/output/snake.svg" alt="Snake animation" width="98%" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
-
-## 🤝 &nbsp;Let's Connect
-
-<div align="center">
-
-I'm always open to collaborating on **AI agents, RAG systems, and production LLM products.**
-
-<br/>
-
-<a href="https://www.linkedin.com/in/hussnain-nazir"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://buildwithhussnain.me"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:hussnainbhi.78@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
-
-⭐️ *If my work is useful to you, a star on a repo goes a long way.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
-
-</div>
+---
