@@ -101,16 +101,14 @@ class MuhammadHussnain:
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=mhussnain35&theme=tokyonight" width="48%" alt="GitHub Streak" />
+</p>
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="180em" src="https://streak-stats.demolab.com?user=mhussnain35&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhussnain35&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true" alt="Activity Graph" width="98%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhussnain35&theme=tokyo-night&area=true" width="97%" alt="Activity Graph" />
+</p>
 
 ---
 
