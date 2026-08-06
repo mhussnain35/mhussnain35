@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:081420,50:0d2536,100:29D4F2&height=214&section=header&text=Muhammad%20Hussnain&fontSize=52&fontColor=ffffff%3Bfont-style%3Aitalic&fontAlignY=38&desc=Full-Stack%20AI%20Engineer&descSize=22&descAlignY=56&animation=fadeIn" width="1584" height="396" alt="Muhammad Hussnain — Full-Stack AI Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:081420,50:0d2536,100:29D4F2&height=214&section=header&text=Muhammad%20Hussnain&fontSize=48&fontColor=ffffff%3Bfont-style%3Aitalic&fontAlignY=38&desc=Full-Stack%20AI%20Engineer&descSize=20&descAlignY=56&animation=fadeIn" width="1584" height="396" alt="Muhammad Hussnain — Full-Stack AI Engineer" />
 
 </div>
 
