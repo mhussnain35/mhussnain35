@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Muhammad%20Hussnain-Full--Stack%20AI%20Engineer-00B4D8?style=for-the-badge&labelColor=0d1117" width="583" height="45" alt="Muhammad Hussnain — Full-Stack AI Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00B4D8&height=214&section=header&text=Muhammad%20Hussnain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20AI%20Engineer&descSize=22&descAlignY=56&animation=fadeIn" width="1584" height="396" alt="Muhammad Hussnain — Full-Stack AI Engineer" />
 
 </div>
 
