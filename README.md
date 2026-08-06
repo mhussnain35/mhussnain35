@@ -10,16 +10,26 @@ From fine-tuned BERT classifiers to multi-tool agents and citation-backed RAG su
 
 ---
 
-<img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" /> 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-### Building AI that *retrieves, reasons, and acts.*
+```python
+class MuhammadHussnain:
+    def __init__(self):
+        self.role     = "Full-Stack AI Engineer"
+        self.focus    = ["Autonomous Agents", "RAG Pipelines", "Production LLM Systems"]
+        self.stack    = ["Python", "TypeScript", "FastAPI", "Next.js", "LangChain"]
+        self.learning = ["Multi-Agent Orchestration", "Vector Search at Scale", "MLOps"]
 
-I design and deploy AI systems end to end — from data pipelines and fine-tuned models to autonomous agents running in production.
+    def philosophy(self) -> str:
+        return "Ship systems that act — grounded, observable, and production-ready."
+```
 
-- 🤖 **Agentic AI Architecture** — Autonomous agents that plan, call tools, and handle end-to-end file-system and workflow tasks.
-- 📚 **RAG & Grounded Retrieval** — Support systems that cite their sources, refuse to hallucinate, and escalate to humans cleanly.
-- 🧠 **Machine Learning & NLP** — Fine-tuned BERT classifiers, Scikit-learn pipelines, and prediction models trained on real datasets.
-- 🚀 **Full-Stack Delivery** — FastAPI → vector DBs → Next.js/React → serverless. I own the entire stack.
+- 🤖 &nbsp;I design **autonomous AI agents** that plan, call tools, and complete real tasks end-to-end
+- 📚 &nbsp;I build **RAG systems** with citation-grounded answers and clean human-escalation paths
+- 🧠 &nbsp;I train and ship **ML models** — classification, prediction, and NLP with BERT & Scikit-learn
+- ⚡ &nbsp;I deliver **full-stack products** using FastAPI, Next.js, and TypeScript end to end
+- 🌱 &nbsp;Currently going deeper on **multi-agent orchestration** and **LLM evaluation**
+- 💬 &nbsp;Ask me about **LangChain, RAG architecture, agent tooling, or Python backends**
 
 ---
 
@@ -75,12 +85,18 @@ I design and deploy AI systems end to end — from data pipelines and fine-tuned
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.vercel.app/?user=mhussnain35&theme=tokyonight" width="48%" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=mhussnain35&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" height="180em" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhussnain35&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true" alt="Activity Graph" width="98%" />
+
+</div>
 
 ---
 
