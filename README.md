@@ -37,7 +37,6 @@ class MuhammadHussnain:
 
 **AI & Agents:**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=plastic&logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Systems-00BFA6?style=plastic)
 ![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=plastic&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=plastic&logo=OpenAI&logoColor=white)
@@ -70,7 +69,7 @@ class MuhammadHussnain:
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
 
 **Infra & Tools:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-2496ED?style=plastic&logo=Postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
