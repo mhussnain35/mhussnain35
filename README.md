@@ -1,15 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%91%8B%20Hi%2C%20I'm-Muhammad%20Hussnain-00B4D8?style=for-the-badge&labelColor=0d1117" alt="Muhammad Hussnain" />
-<img src="https://img.shields.io/badge/Full--Stack%20AI%20Engineer-8A2BE2?style=for-the-badge&labelColor=0d1117" alt="Full-Stack AI Engineer" />
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-00BFA6?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+<img src="https://img.shields.io/badge/Muhammad%20Hussnain-Full--Stack%20AI%20Engineer-00B4D8?style=for-the-badge&labelColor=0d1117" width="583" height="45" alt="Muhammad Hussnain — Full-Stack AI Engineer" />
 
 </div>
 
