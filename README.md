@@ -1,3 +1,18 @@
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%91%8B%20Hi%2C%20I'm-Muhammad%20Hussnain-00B4D8?style=for-the-badge&labelColor=0d1117" alt="Muhammad Hussnain" />
+<img src="https://img.shields.io/badge/Full--Stack%20AI%20Engineer-8A2BE2?style=for-the-badge&labelColor=0d1117" alt="Full-Stack AI Engineer" />
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00BFA6?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&size=28&duration=4000&color=00B4D8&lines=Muhammad+Hussnain;Full-Stack+AI+Engineer;Autonomous+Agents+✦+RAG+Pipelines+✦+LLM+Systems)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=mhussnain35&color=blue)
@@ -84,12 +99,12 @@ class MuhammadHussnain:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=mhussnain35&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" height="180em" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="180em" src="https://streak-stats.demolab.com?user=mhussnain35&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" />
 
 <br/><br/>
 
