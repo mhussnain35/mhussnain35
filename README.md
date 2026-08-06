@@ -84,7 +84,7 @@ class MuhammadHussnain:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
