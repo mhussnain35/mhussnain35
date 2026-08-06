@@ -102,12 +102,12 @@ class MuhammadHussnain:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=mhussnain35&theme=tokyonight" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="47%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=mhussnain35&theme=tokyonight" width="49.8%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhussnain35&theme=tokyo-night&area=true" width="97%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhussnain35&theme=tokyo-night&area=true&hide_border=true" width="97%" alt="Activity Graph" />
 </p>
 
 ---
