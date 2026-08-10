@@ -1,31 +1,22 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Hussnain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer&descAlignY=55&descSize=18" width="100%" />
-
-<a href="https://buildwithhussnain.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Full-Stack+AI+Engineer;Autonomous+Agents+%7C+RAG+Pipelines;Production+LLM+Systems;I+build+AI+that+executes%2C+not+just+responds" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mhussnain35&label=Profile%20Views&color=00d4ff&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/mhussnain35?label=Followers&style=flat-square&color=00d4ff" alt="followers" />
-<img src="https://img.shields.io/badge/Focus-Agentic%20AI-00d4ff?style=flat-square" alt="focus" />
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square" alt="open to work" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/hussnain-nazir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://buildwithhussnain.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:hussnainbhi.78@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/mhussnain35"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:081420,50:0d2536,100:29D4F2&height=214&section=header&text=Muhammad%20Hussnain&fontSize=48&fontColor=ffffff%3Bfont-style%3Aitalic&fontAlignY=38&desc=Full-Stack%20AI%20Engineer&descSize=20&descAlignY=56&animation=fadeIn" width="1584" height="396" alt="Muhammad Hussnain — Full-Stack AI Engineer" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=750&size=22&duration=4000&color=29D4F2&lines=Muhammad+Hussnain;Full-Stack+AI+Engineer;Autonomous+Agents+✦+RAG+Pipelines+✦+LLM+Systems)](https://git.io/typing-svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=mhussnain35&color=blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mhussnain35.mhussnain35)
+
+
+**I build AI agents that finish the task, not chatbots that guess.**  
+Specializing in autonomous agent architectures, retrieval-grounded systems, and production Python backends.  
+From fine-tuned BERT classifiers to multi-tool agents and citation-backed RAG support systems — I work at the intersection of applied ML and shipped software.
+
+---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
@@ -48,94 +39,87 @@ class MuhammadHussnain:
 - 🌱 &nbsp;Currently going deeper on **multi-agent orchestration** and **LLM evaluation**
 - 💬 &nbsp;Ask me about **LangChain, RAG architecture, agent tooling, or Python backends**
 
-<br/>
+---
 
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## 🛠️ Tech Stack & Tools
 
-## 🛠️ &nbsp;Tech Stack
+**AI & Agents:**
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![RAG](https://img.shields.io/badge/RAG_Systems-00BFA6?style=plastic)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=plastic&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=plastic&logo=OpenAI&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=plastic&logo=anthropic&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-F80061?style=plastic)
+![Vector DB](https://img.shields.io/badge/Vector_DBs-DC244C?style=plastic)
 
-<details open>
-<summary><b>🤖 AI, Agents & Machine Learning</b></summary>
-<br/>
+**Machine Learning & Data:**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FFD21E?style=plastic&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9D00?style=plastic&logo=huggingface&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-6E56CF?style=for-the-badge&logo=probot&logoColor=white)
-![Chainlit](https://img.shields.io/badge/Chainlit-F80061?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Frontend:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
 
-</details>
+**Backend & Databases:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
+**Infra & Tools:**
+![Postman](https://img.shields.io/badge/Postman-2496ED?style=plastic&logo=Postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-</details>
+## 🌍 Let's Connect
 
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hussnain-nazir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://buildwithhussnain.me)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:hussnainbhi.78@gmail.com)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+---
 
-</details>
+## 📊 GitHub Statistics
 
-<details open>
-<summary><b>⚙️ Backend & Databases</b></summary>
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="47%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=mhussnain35&theme=tokyonight" width="49.8%" alt="GitHub Streak" />
+</p>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhussnain35&theme=tokyo-night&area=true&hide_border=true" width="97%" alt="Activity Graph" />
+</p>
 
-</details>
+---
 
-<details open>
-<summary><b>☁️ Tools & Infrastructure</b></summary>
-<br/>
+## 📈 Most Used Languages
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhussnain35&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true&exclude_repo=Assignment1,Assignment3,Assignment4,Assignment5,CPP-Learning)
 
-</details>
+---
 
-<br/>
+## 🏆 GitHub Trophies
 
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+[![trophy](https://github-trophies.vercel.app/?username=mhussnain35&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📊 &nbsp;GitHub Statistics
+---
 
-<div align="center">
+> _"Building AI systems that retrieve, reason, and act."_ 🤖✨
 
+<<<<<<< HEAD
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhussnain35&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff" alt="Top Languages" />
 
@@ -238,3 +222,6 @@ I'm always open to collaborating on **AI agents, RAG systems, and production LLM
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
 </div>
+=======
+---
+>>>>>>> 7658862ebd92a9ddc94bcf42c048d2d75e9f4b50
