@@ -136,8 +136,8 @@ class MuhammadHussnain:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhussnain35&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhussnain35&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff" alt="Top Languages" />
 
 <br/>
 
@@ -157,7 +157,7 @@ class MuhammadHussnain:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mhussnain35&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="98%" />
+<img src="https://github-trophies.vercel.app/?username=mhussnain35&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,MultiLanguage" alt="GitHub Trophies" width="98%" />
 
 </div>
 
@@ -170,16 +170,22 @@ class MuhammadHussnain:
 <div align="center">
 
 <a href="https://github.com/mhussnain35/deskwise">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhussnain35&repo=deskwise&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="deskwise" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mhussnain35&repo=deskwise&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="deskwise" />
 </a>
 <a href="https://github.com/mhussnain35/AI_Employee">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhussnain35&repo=AI_Employee&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="AI_Employee" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mhussnain35&repo=AI_Employee&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="AI_Employee" />
 </a>
 <a href="https://github.com/mhussnain35/Context-Aware-Chatbot-Using-LangChain-or-RAG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhussnain35&repo=Context-Aware-Chatbot-Using-LangChain-or-RAG&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="Context-Aware Chatbot" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mhussnain35&repo=Context-Aware-Chatbot-Using-LangChain-or-RAG&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="Context-Aware Chatbot" />
 </a>
 <a href="https://github.com/mhussnain35/News-Topic-Classifier-Using-BERT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhussnain35&repo=News-Topic-Classifier-Using-BERT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="News Topic Classifier" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mhussnain35&repo=News-Topic-Classifier-Using-BERT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="News Topic Classifier" />
+</a>
+<a href="https://github.com/mhussnain35/Chainlit-Chatbot">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mhussnain35&repo=Chainlit-Chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="Chainlit Chatbot" />
+</a>
+<a href="https://github.com/mhussnain35/End-to-End-ML-Pipeline-with-Scikit-learn-Pipeline-API">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mhussnain35&repo=End-to-End-ML-Pipeline-with-Scikit-learn-Pipeline-API&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="End-to-End ML Pipeline" />
 </a>
 
 </div>
@@ -201,7 +207,11 @@ class MuhammadHussnain:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mhussnain35/mhussnain35/output/snake.svg" alt="Snake animation" width="98%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhussnain35/mhussnain35/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhussnain35/mhussnain35/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/mhussnain35/mhussnain35/output/snake.svg" alt="Snake eating my contribution graph" width="98%" />
+</picture>
 
 </div>
 
