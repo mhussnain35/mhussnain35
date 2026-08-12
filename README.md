@@ -118,5 +118,3 @@ class MuhammadHussnain:
 ---
 
 > _"Building AI systems that retrieve, reason, and act."_ 🤖✨
-
-<<<<<<< HEADtext_color=c9d1d9" alt="GitHub Stats" />
