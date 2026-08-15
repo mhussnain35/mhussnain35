@@ -53,6 +53,7 @@ class MuhammadHussnain:
 ![Vector DB](https://img.shields.io/badge/Vector_DBs-DC244C?style=plastic)
 
 **Machine Learning & Data:**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-FFD21E?style=plastic&logo=huggingface&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9D00?style=plastic&logo=huggingface&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
