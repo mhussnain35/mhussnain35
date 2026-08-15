@@ -95,7 +95,7 @@ class MuhammadHussnain:
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="47%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=mhussnain35&theme=tokyonight" width="49.8%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=mhussnain35&theme=tokyonight" width="49.8%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
