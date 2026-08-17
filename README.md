@@ -37,7 +37,7 @@ class MuhammadHussnain:
 - 🧠 &nbsp;I train and ship **ML models** — classification, prediction, and NLP with BERT & Scikit-learn
 - ⚡ &nbsp;I deliver **full-stack products** using FastAPI, Next.js, and TypeScript end to end
 - 🌱 &nbsp;Currently going deeper on **multi-agent orchestration** and **LLM evaluation**
-- 💬 &nbsp;Ask me about **LangChain, RAG architecture, agent tooling, or Python backends**
+- 💬 &nbsp;Ask me about **AgentSDK, LangChain, RAG architecture, agent tooling, or Python backends**
 
 ---
 
