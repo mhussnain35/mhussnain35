@@ -14,7 +14,7 @@
 
 **I build AI agents that finish the task, not chatbots that guess.**  
 Specializing in autonomous agent architectures, retrieval-grounded systems, and production Python backends.  
-From fine-tuned BERT classifiers to multi-tool agents and citation-backed RAG support systems I work at the intersection of applied ML and shipped software.
+From fine-tuned BERT classifiers to multi-tool agents and citation-backed RAG support systems. I work at the intersection of applied ML and shipped software.
 
 ---
 
