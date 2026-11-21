@@ -43,44 +43,13 @@ class MuhammadHussnain:
 
 ## 🛠️ Tech Stack & Tools
 
-**AI & Agents:**
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![RAG](https://img.shields.io/badge/RAG_Systems-00BFA6?style=plastic)
-![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=plastic&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=plastic&logo=OpenAI&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=plastic&logo=anthropic&logoColor=white)
-![Chainlit](https://img.shields.io/badge/Chainlit-F80061?style=plastic)
-![Vector DB](https://img.shields.io/badge/Vector_DBs-DC244C?style=plastic)
-
-**Machine Learning & Data:**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FFD21E?style=plastic&logo=huggingface&logoColor=black)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9D00?style=plastic&logo=huggingface&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
-
-**Frontend:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
-
-**Backend & Databases:**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
-
-**Infra & Tools:**
-![Postman](https://img.shields.io/badge/Postman-2496ED?style=plastic&logo=Postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+| Category | Technologies |
+|----------|-------------|
+| **AI & Agents** | ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![RAG](https://img.shields.io/badge/RAG_Systems-00BFA6?style=plastic) ![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=plastic&logo=openai&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=plastic&logo=OpenAI&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=plastic&logo=anthropic&logoColor=white) ![Chainlit](https://img.shields.io/badge/Chainlit-F80061?style=plastic) ![Vector DB](https://img.shields.io/badge/Vector_DBs-DC244C?style=plastic) |
+| **Machine Learning & Data** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-FFD21E?style=plastic&logo=huggingface&logoColor=black) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9D00?style=plastic&logo=huggingface&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white) |
+| **Backend & Databases** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white) |
+| **Infra & Tools** | ![Postman](https://img.shields.io/badge/Postman-2496ED?style=plastic&logo=Postman&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) |
 
 ---
 
