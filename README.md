@@ -1,113 +1,39 @@
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&size=26&duration=4000&color=29D4F2&lines=Muhammad+Hussnain;Full-Stack+AI+Engineer;Autonomous+Agents+✦+RAG+Pipelines+✦+LLM+Systems)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:081420,50:0d2536,100:29D4F2&height=200&section=header&text=Muhammad%20Hussnain&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20AI%20Engineer&descSize=18&descAlignY=54&animation=fadeIn" width="100%" alt="Muhammad Hussnain — Full-Stack AI Engineer" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&size=20&duration=4000&color=29D4F2&center=true&vCenter=true&lines=Autonomous+Agents+%E2%9C%A6+RAG+Pipelines+%E2%9C%A6+LLM+Systems)](https://git.io/typing-svg)
-
-**I build AI agents that finish the task, not chatbots that guess.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussnain-nazir)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithhussnain.me)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussnainbhi.78@gmail.com)
-
-</div>
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mhussnain35.mhussnain35&left_color=gray&right_color=blue)](https://github.com/mhussnain35)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hussnain-nazir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel)](https://buildwithhussnain.me)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hussnainbhi.78@gmail.com)
 
 ---
 
-## ⚡ About
+### 👋 Hi, I'm Muhammad Hussnain
 
-```python
-class MuhammadHussnain:
-    role     = "Full-Stack AI Engineer"
-    focus    = ["Autonomous Agents", "RAG Pipelines", "Production LLM Systems"]
-    stack    = ["Python", "TypeScript", "FastAPI", "Next.js", "LangChain"]
-    learning = ["Multi-Agent Orchestration", "Vector Search at Scale", "MLOps"]
-```
+I build **AI agents that finish the task**, not chatbots that guess.
 
-- 🤖 &nbsp;Design **autonomous AI agents** that plan, call tools, and complete real tasks end-to-end  
-- 📚 &nbsp;Build **RAG systems** with citation-grounded answers and human-escalation paths  
-- 🧠 &nbsp;Train and ship **ML models** — BERT, Scikit-learn, classification & NLP  
-- ⚡ &nbsp;Deliver **full-stack products** with FastAPI + Next.js + TypeScript  
+- 🤖 **AI & Autonomous Agents** — Building multi-agent workflows, tool-use systems, and citation-backed RAG pipelines using OpenAI SDK, Claude, and LangChain.
+- ⚡ **Full-Stack Delivery** — End-to-end execution: FastAPI & Node backends, vector search, ML models (BERT & Scikit-learn), and modern web UIs (Next.js / React / TypeScript).
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🤖 AI Support Agent](https://github.com/mhussnain35/YOUR-REPO) | Autonomous customer support agent with tool-calling and citation-backed RAG | `OpenAI SDK` `LangChain` `FastAPI` `Pinecone` |
-| [📚 RAG Pipeline](https://github.com/mhussnain35/YOUR-REPO) | Production retrieval-augmented generation system with human escalation | `Python` `Vector DB` `Chainlit` |
-| [🧠 BERT Classifier](https://github.com/mhussnain35/YOUR-REPO) | Fine-tuned BERT model for text classification deployed as an API | `HuggingFace` `scikit-learn` `FastAPI` |
-| [⚡ Full-Stack Dashboard](https://github.com/mhussnain35/YOUR-REPO) | End-to-end web app with AI-powered analytics | `Next.js` `TypeScript` `Supabase` `Tailwind` |
-
-> _Replace the links above with your actual repository URLs_
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**AI & Machine Learning**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI Skills" />
-</a>
-
-![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=flat&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-00BFA6?style=flat)
-![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=flat&logo=huggingface&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**Frontend & Backend**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,fastapi,nodejs,postgres,mongodb,supabase&theme=dark" alt="Dev Skills" />
-</a>
-
-**Tools & Infra**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,docker&theme=dark" alt="Tools" />
-</a>
-
-</div>
+| Domain | Technologies |
+|--------|-------------|
+| **AI & Agents** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![RAG](https://img.shields.io/badge/RAG_Systems-00BFA6?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square) ![Chainlit](https://img.shields.io/badge/Chainlit-F80061?style=flat-square) |
+| **ML & Data** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9D00?style=flat-square&logo=huggingface&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Vector DB](https://img.shields.io/badge/Vector_DBs-DC244C?style=flat-square) |
+| **Backend & DBs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Infra & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=mhussnain35&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
-
-<details>
-<summary>📈 More Stats</summary>
-<br>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhussnain35&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&exclude_repo=Assignment1,Assignment3,Assignment4,Assignment5,CPP-Learning)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhussnain35&theme=tokyo-night&area=true&hide_border=true" width="97%" alt="Activity Graph" />
-
-[![trophy](https://github-trophies.vercel.app/?username=mhussnain35&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-</details>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=mhussnain35&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
 
 ---
 
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=mhussnain35&color=29D4F2&style=flat-square&label=Profile+Views)
-
-_"Building AI systems that retrieve, reason, and act."_ 🤖
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:081420,50:0d2536,100:29D4F2&height=100&section=footer" width="100%" />
+*"Building AI systems that retrieve, reason, and act."* 🤖
