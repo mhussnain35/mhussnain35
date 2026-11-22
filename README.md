@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&size=26&duration=4000&color=29D4F2&lines=Muhammad+Hussnain;Full-Stack+AI+Engineer;Autonomous+Agents+✦+RAG+Pipelines+✦+LLM+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=750&size=24&duration=4000&color=29D4F2&lines=Muhammad+Hussnain;Full-Stack+AI+%26+Systems+Engineer;Autonomous+Agents+%E2%9C%A6+RAG+Pipelines+%E2%9C%A6+LLM+Systems)](https://git.io/typing-svg)
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mhussnain35.mhussnain35&left_color=gray&right_color=blue)](https://github.com/mhussnain35)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hussnain-nazir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel)](https://buildwithhussnain.me)
