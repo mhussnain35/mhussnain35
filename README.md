@@ -11,7 +11,7 @@
 I build **AI agents that finish the task**, not chatbots that guess.
 
 - 🤖 **AI & Autonomous Agents** — Building multi-agent workflows, tool-use systems, and citation-backed RAG pipelines using OpenAI SDK, Claude, and LangChain.
-- ⚡ **Full-Stack Delivery** — End-to-end execution: FastAPI & Node backends, vector search, ML models (BERT & Scikit-learn), and modern web UIs (Next.js / React / TypeScript).
+- ⚡ **Full-Stack Delivery** — End-to-end execution FastAPI & Node backends, vector search, ML models (BERT & Scikit-learn), and modern web UIs (Next.js / React / TypeScript).
 
 ---
 
