@@ -11,7 +11,7 @@
 I build **AI agents that finish the task**, not chatbots that guess.
 
 - 🤖 **AI & Autonomous Agents** — Building multi-agent workflows, tool-use systems, and citation-backed RAG pipelines using OpenAI SDK, Claude, and LangChain.
-- ⚡ **Full-Stack Delivery** — End-to-end execution FastAPI & Node backends, vector search, ML models (BERT & Scikit-learn), and modern web UIs (Next.js / React / TypeScript).
+- ⚡ **Full-Stack Delivery** — End-to-end execution: FastAPI & Node backends, vector search, ML models (BERT & Scikit-learn), and modern web UIs (Next.js / React / TypeScript).
 
 ---
 
@@ -29,10 +29,17 @@ I build **AI agents that finish the task**, not chatbots that guess.
 
 ### 📊 Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=mhussnain35&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=mhussnain35&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&ring_color=29D4F2&icon_color=29D4F2" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=mhussnain35&theme=tokyonight&hide_border=true&background=1a1b27&ring=29D4F2&fire=FF6C37&currStreakLabel=29D4F2" width="49%" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhussnain35&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=29D4F2&langs_count=6&exclude_repo=Assignment1,Assignment3,Assignment4,Assignment5,CPP-Learning" width="49%" alt="Top Languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=mhussnain35&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8&no-bg=true" width="49%" alt="Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhussnain35&theme=tokyo-night&area=true&hide_border=true&bg_color=1a1b27&color=29D4F2&line=29D4F2&point=FF6C37&area_color=29D4F2" width="98%" alt="Activity Graph" />
+
+</div>
 
 ---
 
